@@ -5,9 +5,9 @@ Este desafio exige que você imprima uma string em uma única linha e, em seguid
 
 Entrada:
 
-  Welcome to C programming.
+Welcome to C programming.
 
 Saída:
 
-  Hello, World!
-	Welcome to C programming.
+Hello, World!
+Welcome to C programming.
