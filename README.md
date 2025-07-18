@@ -8,6 +8,7 @@ Entrada:
 Welcome to C programming.
 
 Saída:
-
+```
 Hello, World!
 Welcome to C programming.
+```
